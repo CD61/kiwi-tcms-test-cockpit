@@ -17,7 +17,9 @@ Elle vise notamment à :
 
 - simplifier l'interface de Kiwi TCMS en limitant les options et les informations affichées au strict nécessaire ;
 
-- standardiser et ordonner le parcours de test selon un flux de travail structuré : logiciel concerné → campagne → essai → cas de test → exécution ;
+- standardiser et ordonner le parcours de test selon un flux de travail structuré :
+ 
+  **logiciel concerné** → **campagne** → **essai** → **cas de test** → **exécution** 
 
 - éviter les allers-retours entre l'onglet ou la fenêtre du logiciel à tester et l'interface de Kiwi TCMS.
 
@@ -61,6 +63,6 @@ Ce projet est distribué sous licence GNU General Public License v3.0 (GPL-3.0).
 Voir le fichier LICENSE pour consulter le texte complet de la licence.
 
 ## Auteur
-Ce projet a été développé en interne par Vincent Bourgmayer pour les besoins de la collectivité territoriale de l'Orne.
+Ce projet a été développé en interne par **Vincent Bourgmayer** pour les besoins de la **collectivité territoriale de l'Orne**.
 
-Profil GitHub : @vince-bourgmayer
+- Profil GitHub : [@vince-bourgmayer](https://github.com/vince-bourgmayer)
